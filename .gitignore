@@ -1,0 +1,30 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE e logs
+.vscode/
+.idea/
+*.log
+
+# Simulações e relatórios HTML
+*.html
+
+# Backups e dados locais
+*.bak
+uaibot_data/
+Mestrado-CCR/
+
